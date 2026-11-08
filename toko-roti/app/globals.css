@@ -11,11 +11,6 @@ section {
   font-weight: 700;
   border-bottom: 2px solid #b45309;
 }
-/* Caption lama hilang cepat, caption baru muncul setelah gambar selesai berganti */
-/* .carousel-item .carousel-caption {
-  opacity: 0;
-  transition: opacity 0.2s ease;
-} */
 
 .carousel-item.active .carousel-caption {
   opacity: 1;
